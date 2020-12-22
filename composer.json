@@ -4,6 +4,4 @@
   , "keywords": ["bootstrap", "css"]
   , "author": "Twitter Inc."
   , "license": "Apache-2.0"
-  , "target-dir": "i-plug/bootstrap"
-
 }
